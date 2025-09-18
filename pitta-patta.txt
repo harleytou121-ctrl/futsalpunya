@@ -1,24 +1,14 @@
 
+
 <!DOCTYPE html>
 <html
     class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
     lang="en">
     <head>
-
+<meta name="google-site-verification" content="z2LI1TVJRmhFN_GzMS0tZwE9r-NrBRtuGuDNth7F_SM" />
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<script type="text/javascript" async=""
-    src="https://www.googletagmanager.com/gtag/js?id=AW-953691586&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545"
-    nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<script type="text/javascript" async=""
-    src="https://www.googletagmanager.com/gtag/js?id=AW-800411572&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545"
-    nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<script type="text/javascript" async=""
-    src="https://www.googletagmanager.com/gtag/js?id=AW-943617023&amp;cx=c&amp;gtm=45He57s1v9195929391za200&amp;tag_exp=101509157~103116026~103200004~103233427~104573694~104684208~104684211~105103161~105103163~105124543~105124545"
-    nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<script type="text/javascript" async=""
-    src="https://www.googletagmanager.com/gtag/js?id=G-ZKBVC1X78F&amp;cx=c&amp;gtm=45He57s1v9117991082za200&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105103161~105103163~105124543~105124545"
-    nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+<link rel="amphtml" href="https://futsaltutu.pages.dev/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -61,15 +51,15 @@
         as="image">
 
 
-    <title>MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!</title>
+    <title>FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online</title>
 
     <meta name="description"
-        content="MPLTOTO menjadi pilihan terbaik yang menyedikan situs toto togel ter the best dan mempunyai mesin toto slot 4d yang sangat terpercaya dan mudah dimainkan oleh para player dan menjadikannya situs terpercaya di indonesia.">
+        content="FUTSALTOTO Pitta Styles menyediakan platform situs toto dan layanan bandar togel Macau 4D online terpercaya dengan sistem aman di Indonesia.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="https://www.upload.ee/image/18598211/mpliconedugengg.ico">
+    <link rel="icon" type="image/x-icon" href="https://www.upload.ee/image/18609298/iconfutsal.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-72x72-precomposed-ea6fb08063069270d41814bdcea6a36fee5fffaba8ec1f0be6ccf3ebbb63dddb.png"
+        href="https://www.upload.ee/image/18609374/futsaltutugengg.jpg"
         sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
         href="https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-114x114-precomposed-bab982e452fbea0c6821ffac2547e01e4b78e1df209253520c7c4e293849c4d3.png"
@@ -97,25 +87,25 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://cefile.unr.edu.ar/">
-    <link rel="amphtml" href="https://gantian-naiknya-bang.pages.dev/" />
+    <link rel="canonical" href="https://pitta-patta.com/styles/">
+
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!",
-  "image": "https://www.upload.ee/image/18597438/mplsitustoto.jpg",
-  "description": "MPLTOTO menjadi pilihan terbaik yang menyedikan situs toto togel ter the best dan mempunyai mesin toto slot 4d yang sangat terpercaya dan mudah dimainkan oleh para player dan menjadikannya situs terpercaya di indonesia.",
+  "name": "FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online",
+  "image": "https://www.upload.ee/image/18609277/futsalpanjang.png",
+  "description": "FUTSALTOTO Pitta Styles menyediakan platform situs toto dan layanan bandar togel Macau 4D online terpercaya dengan sistem aman di Indonesia.",
   "brand": {
     "@type": "Brand",
-    "name": "MPLTOTO"
+    "name": "FUTSALTOTO"
   },
-  "sku": "FTSL-TO2025",
-  "mpn": "FTSL-TO2025",
-  "url": "https://cefile.unr.edu.ar/",
+  "sku": "FUTSALTOTO",
+  "mpn": "TOGEL",
+  "url": "https://pitta-patta.com/styles/",
   "offers": {
     "@type": "Offer",
-    "url": "https://cefile.unr.edu.ar/",
+    "url": "https://pitta-patta.com/styles/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -123,13 +113,13 @@
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",
-      "name": "MPLTOTO"
+      "name": "FUTSALTOTO"
     }
   },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": 989
+    "reviewCount": 9000
   },
   "review": [
     {
@@ -141,7 +131,7 @@
       },
       "author": {
         "@type": "Person",
-        "name": "Kevin"
+        "name": "Member FUTSALTOTO"
       }
     },
     {
@@ -153,7 +143,7 @@
       },
       "author": {
         "@type": "Person",
-        "name": "Ariel"
+        "name": "Player Online"
       }
     }
   ]
@@ -173,7 +163,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 2,
+      "position": 2
       "name": "SITUS TOTO",
       "item": "https://pitta-patta.com/styles/"
     },
@@ -229,21 +219,22 @@
 }
 </script>
 
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "MPLTOTO",
-  "url": "https://cefile.unr.edu.ar/",
-  "logo": "https://www.upload.ee/image/18598218/mplpanjanggg.png",
+  "name": "FUTSALTOTO",
+  "url": "https://pitta-patta.com/styles/",
+  "logo": "https://www.upload.ee/image/18609277/futsalpanjang.png",
   "sameAs": [
-    "https://www.facebook.com/MPLTOTO",
-    "https://twitter.com/MPLTOTO",
-    "https://www.instagram.com/MPLTOTO"
+    "https://www.facebook.com/futsaltotoresmi",
+    "https://twitter.com/futsaltotoresmi",
+    "https://www.instagram.com/futsaltotoresmi"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+62-838-2278-3901",
+    "telephone": "+6287334411132",
     "contactType": "customer support",
     "areaServed": "ID",
     "availableLanguage": ["Indonesian", "English"]
@@ -263,81 +254,30 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!">
+    <meta property="og:title" content="FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online">
     <meta property="og:description"
-        content="MPLTOTO menjadi pilihan terbaik yang menyedikan situs toto togel ter the best dan mempunyai mesin toto slot 4d yang sangat terpercaya dan mudah dimainkan oleh para player dan menjadikannya situs terpercaya di indonesia.">
-    <meta property="og:image" content="https://www.upload.ee/image/18597438/mplsitustoto.jpg">
-    <meta property="og:url" content="https://cefile.unr.edu.ar/">
+        content="FUTSALTOTO Pitta Styles menyediakan platform situs toto dan layanan bandar togel Macau 4D online terpercaya dengan sistem aman di Indonesia.">
+    <meta property="og:image" content="https://www.upload.ee/image/18609374/futsaltutugengg.jpg">
+    <meta property="og:url" content="https://pitta-patta.com/styles/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!">
-    <meta name="twitter:description" content="MPLTOTO menjadi pilihan terbaik yang menyedikan situs toto togel ter the best dan mempunyai mesin toto slot 4d yang sangat terpercaya dan mudah dimainkan oleh para player dan menjadikannya situs terpercaya di indonesia.">
-    <meta name="twitter:image" content="https://www.upload.ee/image/18597438/mplsitustoto.jpg">
-    <meta property="og:title" content="MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!">
+    <meta name="twitter:title" content="FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online">
+    <meta name="twitter:description" content="FUTSALTOTO Pitta Styles menyediakan platform situs toto dan layanan bandar togel Macau 4D online terpercaya dengan sistem aman di Indonesia.">
+    <meta name="twitter:image" content="https://www.upload.ee/image/18609374/futsaltutugengg.jpg">
+    <meta property="og:title" content="FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://cefile.unr.edu.ar/">
-    <meta property="og:image" content="https://www.upload.ee/image/18597438/mplsitustoto.jpg" />
+    <meta property="og:url" content="https://pitta-patta.com/styles/">
+    <meta property="og:image" content="https://www.upload.ee/image/18609374/futsaltutugengg.jpg" />
     <meta property="og:description"
-        content="MPLTOTO menjadi pilihan terbaik yang menyedikan situs toto togel ter the best dan mempunyai mesin toto slot 4d yang sangat terpercaya dan mudah dimainkan oleh para player dan menjadikannya situs terpercaya di indonesia.">
-    <meta property="og:site_name" content="ThemeForest">
+        content="FUTSALTOTO Pitta Styles menyediakan platform situs toto dan layanan bandar togel Macau 4D online terpercaya dengan sistem aman di Indonesia.">
+    <meta property="og:site_name" content="FUTSALTOTO">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
         content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
-
     <meta name="turbo-visit-control" content="reload">
 
-
-
-
-
-
-
-
-    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookieconsent="statistics">
-        //<![CDATA[
-        var container_env_param = "";
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + container_env_param;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-W8KL5Q5');
-
-        //]]>
-    </script>
-
-
-    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookieconsent="marketing">
-        //<![CDATA[
-        var gtmId = 'GTM-KGCDGPL6';
-        var container_env_param = "";
-        // Google Tag Manager Tracking Code
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + container_env_param;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', gtmId);
-
-
-        window.addEventListener('load', function () {
-            window.dataLayer.push({
-                event: 'pinterestReady'
-            });
-        });
-
-        //]]>
-    </script>
     <script
         src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js"
         nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script>"https://g.aliicdn.site/alimod/jquery/5.0.9/bl.js"</script>
@@ -697,21 +637,6 @@
   </div>
 <![endif]-->
 
-    <script
-        src="https://public-assets.envato-static.com/assets/gtm_measurements-40b0a0f82bafab0a0bb77fc35fe1da0650288300b85126c95b4676bcff6e4584.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KL5Q5" height="0" width="0"
-            style="display:none;visibility:hidden">
-        </iframe>
-    </noscript>
-
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGCDGPL6" height="0" width="0"
-            style="display:none;visibility:hidden">
-        </iframe>
-    </noscript>
-
 
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
             //<![CDATA[
@@ -770,12 +695,12 @@
     </script>
     <style>
         .live-preview-btn--blue .live-preview {
-            background-color: #850000;
+            background-color: #810085;
         }
 
         .live-preview-btn--blue .live-preview:hover,
         .live-preview-btn--blue .live-preview:focus {
-            background-color: #00bbff
+            background-color: #ff00f2
         }
     </style>
 
@@ -783,7 +708,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://cefile.unr.edu.ar/">Envato Market</a>
+                    <a href="https://pitta-patta.com/styles/">FUTSALTOTO</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -793,36 +718,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://cefile.unr.edu.ar/"></a>
+                        href="https://pitta-patta.com/styles/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://cefile.unr.edu.ar/">
+                    <a class="off-canvas-left__site" href="hhttps://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://cefile.unr.edu.ar/">
+                    </a> <a class="off-canvas-left__site" href="https://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://cefile.unr.edu.ar/">
+                    </a> <a class="off-canvas-left__site" href="https://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://cefile.unr.edu.ar/">
+                    </a> <a class="off-canvas-left__site" href="https://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://cefile.unr.edu.ar/">
+                    </a> <a class="off-canvas-left__site" href="https://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://cefile.unr.edu.ar/">
+                    </a> <a class="off-canvas-left__site" href="https://pitta-patta.com/styles/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -831,7 +756,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://cefile.unr.edu.ar/" accept-charset="UTF-8"
+                    <form id="search" action="https://pitta-patta.com/styles/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -850,42 +775,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Files</a>
+                                    href="https://pitta-patta.com/styles/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Featured Files</a>
+                                    href="https://pitta-patta.com/styles/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Top New Files</a>
+                                    href="https://pitta-patta.com/styles/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Follow Feed</a>
+                                    href="https://pitta-patta.com/styles/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Top Authors</a>
+                                    href="https://pitta-patta.com/styles/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Top New
+                                    href="https://pitta-patta.com/styles/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Public Collections</a>
+                                    href="https://pitta-patta.com/styles/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">View All Categories</a>
+                                    href="https://pitta-patta.com/styles/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -893,88 +818,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all
+                                    href="https://pitta-patta.com/styles/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Blog /
+                                    href="https://pitta-patta.com/styles/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">BuddyPress</a>
+                                    href="https://pitta-patta.com/styles/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Corporate</a>
+                                    href="https://pitta-patta.com/styles/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Creative</a>
+                                    href="https://pitta-patta.com/styles/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Directory &amp; Listings</a>
+                                    href="https://pitta-patta.com/styles/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">eCommerce</a>
+                                    href="https://pitta-patta.com/styles/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Education</a>
+                                    href="https://pitta-patta.com/styles/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Elementor</a>
+                                    href="https://pitta-patta.com/styles/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Entertainment</a>
+                                    href="https://pitta-patta.com/styles/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Mobile</a>
+                                    href="https://pitta-patta.com/styles/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Nonprofit</a>
+                                    href="https://pitta-patta.com/styles/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Real
+                                    href="https://pitta-patta.com/styles/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Retail</a>
+                                    href="https://pitta-patta.com/styles/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Technology</a>
+                                    href="https://pitta-patta.com/styles/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Wedding</a>
+                                    href="https://pitta-patta.com/styles/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Miscellaneous</a>
+                                    href="https://pitta-patta.com/styles/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">WordPress Plugins</a>
+                                    href="https://pitta-patta.com/styles/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -982,21 +907,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Template Kits</a>
+                                    href="https://pitta-patta.com/styles/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Plugins</a>
+                                    href="https://pitta-patta.com/styles/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Themes</a>
+                                    href="https://pitta-patta.com/styles/">Themes</a>
                             </li>
                         </ul>
 
@@ -1004,72 +929,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all
+                                    href="https://pitta-patta.com/styles/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Admin Templates</a>
+                                    href="https://pitta-patta.com/styles/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Corporate</a>
+                                    href="https://pitta-patta.com/styles/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Creative</a>
+                                    href="https://pitta-patta.com/styles/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Entertainment</a>
+                                    href="https://pitta-patta.com/styles/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Mobile</a>
+                                    href="https://pitta-patta.com/styles/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Nonprofit</a>
+                                    href="https://pitta-patta.com/styles/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Personal</a>
+                                    href="https://pitta-patta.com/styles/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Retail</a>
+                                    href="https://pitta-patta.com/styles/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Specialty Pages</a>
+                                    href="https://pitta-patta.com/styles/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Technology</a>
+                                    href="https://pitta-patta.com/styles/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Wedding</a>
+                                    href="https://pitta-patta.com/styles/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Miscellaneous</a>
+                                    href="https://pitta-patta.com/styles/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1077,42 +1002,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all
+                                    href="https://pitta-patta.com/styles/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Fashion</a>
+                                    href="https://pitta-patta.com/styles/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Shopping</a>
+                                    href="https://pitta-patta.com/styles/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Health &amp; Beauty</a>
+                                    href="https://pitta-patta.com/styles/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Technology</a>
+                                    href="https://pitta-patta.com/styles/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Entertainment</a>
+                                    href="https://pitta-patta.com/styles/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Miscellaneous</a>
+                                    href="https://pitta-patta.com/styles/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1120,91 +1045,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all
+                                    href="https://pitta-patta.com/styles/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Email Templates</a>
+                                    href="https://pitta-patta.com/styles/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Landing Pages</a>
+                                    href="https://pitta-patta.com/styles/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Unbounce Landing Pages</a>
+                                    href="https://pitta-patta.com/styles/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all CMS</a>
+                                    href="https://pitta-patta.com/styles/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Concrete5</a>
+                                    href="https://pitta-patta.com/styles/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Drupal</a>
+                                    href="https://pitta-patta.com/styles/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">HubSpot CMS Hub</a>
+                                    href="https://pitta-patta.com/styles/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Joomla</a>
+                                    href="https://pitta-patta.com/styles/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">MODX
+                                    href="https://pitta-patta.com/styles/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Moodle</a>
+                                    href="https://pitta-patta.com/styles/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Webflow</a>
+                                    href="https://pitta-patta.com/styles/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Weebly</a>
+                                    href="https://pitta-patta.com/styles/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Miscellaneous</a>
+                                    href="https://pitta-patta.com/styles/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1212,71 +1137,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Show all
+                                    href="https://pitta-patta.com/styles/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">WooCommerce</a>
+                                    href="https://pitta-patta.com/styles/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">BigCommerce</a>
+                                    href="https://pitta-patta.com/styles/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Drupal Commerce</a>
+                                    href="https://pitta-patta.com/styles/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Easy Digital Downloads</a>
+                                    href="https://pitta-patta.com/styles/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Ecwid</a>
+                                    href="https://pitta-patta.com/styles/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Magento</a>
+                                    href="https://pitta-patta.com/styles/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">OpenCart</a>
+                                    href="https://pitta-patta.com/styles/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">PrestaShop</a>
+                                    href="https://pitta-patta.com/styles/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Shopify</a>
+                                    href="https://pitta-patta.com/styles/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Ubercart</a>
+                                    href="https://pitta-patta.com/styles/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">VirtueMart</a>
+                                    href="https://pitta-patta.com/styles/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Zen
+                                    href="https://pitta-patta.com/styles/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Miscellaneous</a>
+                                    href="https://pitta-patta.com/styles/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1284,30 +1209,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Popular Items</a>
+                                    href="https://pitta-patta.com/styles/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Figma</a>
+                                    href="https://pitta-patta.com/styles/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Adobe
+                                    href="https://pitta-patta.com/styles/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Photoshop</a>
+                                    href="https://pitta-patta.com/styles/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Sketch</a>
+                                    href="https://pitta-patta.com/styles/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1315,56 +1240,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://cefile.unr.edu.ar/">
+                            href="https://pitta-patta.com/styles/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Blogging</a>
+                                    href="https://pitta-patta.com/styles/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Courses</a>
+                                    href="https://pitta-patta.com/styles/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Facebook Templates</a>
+                                    href="https://pitta-patta.com/styles/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Free Elementor Templates</a>
+                                    href="https://pitta-patta.com/styles/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Free
+                                    href="https://pitta-patta.com/styles/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Forums</a>
+                                    href="https://pitta-patta.com/styles/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Ghost
+                                    href="https://pitta-patta.com/styles/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://cefile.unr.edu.ar/">Tumblr</a>
+                                    href="https://pitta-patta.com/styles/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://cefile.unr.edu.ar/">Unlimited
+                                    href="https://pitta-patta.com/styles/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1375,7 +1300,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://cefile.unr.edu.ar/">Unlimited
+                            href="https://pitta-patta.com/styles/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1387,18 +1312,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://cefile.unr.edu.ar/">
+                <a class="off-canvas-right__link--cart" href="https://pitta-patta.com/styles/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://fastads.b-cdn.net/mpltoto5th">
+                <a class="off-canvas-right__link" href="https://rajamantap.pro/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://fastads.b-cdn.net/mpltoto5th">
+                <a class="off-canvas-right__link" href="https://rajamantap.pro/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1414,7 +1339,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://cefile.unr.edu.ar/">
+                                    <a class="btn btn--square" href="https://pitta-patta.com/styles/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1434,7 +1359,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://cefile.unr.edu.ar/">
+                                        href="https://pitta-patta.com/styles/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1442,16 +1367,16 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://cefile.unr.edu.ar/">
+                                        href="https://pitta-patta.com/styles/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://cefile.unr.edu.ar/">
-                                        <img alt="Logo Baru"
-                                            src="https://www.upload.ee/image/18597438/mplsitustoto.jpg"
+                                    <a href="https://pitta-patta.com/styles/">
+                                        <img alt="Logo Raja"
+                                            src="https://www.upload.ee/image/18609277/futsalpanjang.png"
                                             style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1466,25 +1391,25 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://cefile.unr.edu.ar/">
-                                        <img height="50" alt="Envato Market" class="global-header__logo"
-                                            src="https://www.upload.ee/image/18598218/mplpanjanggg.png">
+                                    <a href="https://pitta-patta.com/styles/">
+                                        <img height="50" alt="FUTSALTOTO" class="global-header__logo"
+                                            src="https://www.upload.ee/image/18609277/futsalpanjang.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
                                                     <span class="global-header-menu__link-text">
-                                                        SITUS TOTO
+                                                        LOGIN FUTSALTOTO
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
                                                     <span class="global-header-menu__link-text">
-                                                        TOTO TOGEL
+                                                        DAFTAR FUTSALTOTO
                                                     </span>
                                                 </a>
                                             </li>
@@ -1493,7 +1418,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1506,12 +1431,12 @@
                                                     </svg>
 
                                                     <span class="global-header-menu__link-text">
-                                                        Our Products
+                                                        SITUS TOTO
                                                     </span>
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1533,9 +1458,9 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
-                                                        Sign In
+                                                        TOTO TOGEL
                                                     </span>
                                                 </a>
                                             </li>
@@ -1553,31 +1478,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://cefile.unr.edu.ar/">SITUS TOTO</a>
+                                                href="https://pitta-patta.com/styles/">FUTSALTOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://cefile.unr.edu.ar/">TOTO 4D</a>
+                                                href="https://pitta-patta.com/styles/">DAFTAR FUTSALTOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://cefile.unr.edu.ar/">TOTO TOGEL</a>
+                                                href="https://pitta-patta.com/styles/">LOGIN FUTSALTOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://cefile.unr.edu.ar/">TOTO SLOT</a>
+                                                href="https://pitta-patta.com/styles/">LINK FUTSALTOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://cefile.unr.edu.ar/">SITUS TOGEL</a>
+                                                href="https://pitta-patta.com/styles/">SITUS TOGEL</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://cefile.unr.edu.ar/">SLOT 4D</a>
+                                                href="https://pitta-patta.com/styles/">SITUS TOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://cefile.unr.edu.ar/">SITUS TOTO TERPERCAYA</a>
+                                                href="https://pitta-patta.com/styles/">TOTO TOGEL</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1586,7 +1511,7 @@
                                                 href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net"
                                                 target="_blank">
                                                 <span>
-                                                    UNLIMITED BLADE WORKS
+                                                    © All Rights Reserved FUTSALTOTO
                                                 </span>
                                             </a>
 
@@ -1636,8 +1561,8 @@
 
                                         <div class="header-site-floating-logo__container" bis_skin_checked="1">
                                             <div class="" bis_skin_checked="1">
-                                                <img src="https://www.upload.ee/image/18598211/mpliconedugengg.ico"
-                                                    alt="MPLTOTO"
+                                                <img src="https://www.upload.ee/image/18609298/iconfutsal.png"
+                                                    alt="FUTSALTOTO LOGO"
                                                     style="max-width: 150px; height: auto; object-fit: contain;"
                                                     data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
                                             </div>
@@ -1655,7 +1580,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
+                                                href="https://pitta-patta.com/styles/">
 
                                                 SITUS TOTO
 
@@ -1664,50 +1589,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
-
-                                                TOTO TOGEL
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
-
-                                              TOTO SLOT
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://cefile.unr.edu.ar/">
-
-                                                TOTO 4d
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
-
-                                                SLOT 4D
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
-
-                                                SITUS TOTO TERPERCAYA
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://cefile.unr.edu.ar/">
+                                                href="https://pitta-patta.com/styles/">
 
                                                 SITUS TOGEL
 
@@ -1715,16 +1597,25 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-7-dropdown"
-                                                href="https://cefile.unr.edu.ar/">
+                                                data-dropdown-target=".js-categories-2-dropdown"
+                                                href="https://pitta-patta.com/styles/">
 
-                                                TOTO TOGEL 4D
+                                                BANDAR TOGEL
 
                                             </a>
-                                        </li></ul>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link header-categories__main-link--empty"
+                                                href="https://pitta-patta.com/styles/">
+
+                                                TOTO TOGEL
+
+                                            </a>
+                                        </li>
+                                     </ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://cefile.unr.edu.ar/"
+                                                action="https://pitta-patta.com/styles/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1739,12 +1630,12 @@
                                                 </div>
                                             </form>
                                         </div>
-                                    
+
                                 </div>
                             </div>
 
                         </div>
-                        
+
                     </header>
                 </div>
 
@@ -1759,36 +1650,42 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://cefile.unr.edu.ar/">MPLTOTO</a>
+                                    href="https://pitta-patta.com/styles/">FUTSALTOTO</a>
 
-
-                                <a href="https://cefile.unr.edu.ar/"
-                                    class="js-breadcrumb-category">SITUS TOTO</a>
+                                <a href="https://pitta-patta.com/styles/"
+                                    class="js-breadcrumb-category">SITUS TOGEL</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://cefile.unr.edu.ar/">MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!</a>
+                                    href="https://pitta-patta.com/styles/">SITUS TOTO</a>
+
+                                        <a class="js-breadcrumb-category"
+                                    href="https://pitta-patta.com/styles/">TOTO TOGEL</a>
+
+                                        <a class="js-breadcrumb-category"
+                                    href="https://pitta-patta.com/styles/">BANDAR TOGEL</a>
+                                    
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!
+                                            FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online
                                         </h1>
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://cefile.unr.edu.ar/">
+                                            href="https://pitta-patta.com/styles/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
 
                                             <span class="t-heading -size-m -color-light -margin-none">
-                                                <b class="t-currency"><span class="js-item-header__price">$55</span></b>
+                                                <b class="t-currency"><span class="js-item-header__price">$10</span></b>
                                             </span>
                                         </a>
                                     </div>
@@ -1797,7 +1694,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://cefile.unr.edu.ar/">MPLTOTO</a>
+                                            href="https://pitta-patta.com/styles/">FUTSALTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1810,10 +1707,10 @@
 
                                         </svg>
 
-                                        <strong>92.891.231</strong> sales
+                                        <strong>999.889</strong> Player Like FUTSALTOTO
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>SITUS TOTO</strong>
+                                        <strong>FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1823,7 +1720,7 @@
                                                 fill="#79B530"></path>
 
                                         </svg>
-                                       
+
                                     </div>
                                 </div>
 
@@ -1837,10 +1734,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/">Item Details</a>
+                                            href="https://pitta-patta.com/styles/">FUTSALTOTO</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/"><span>Reviews</span><span>
+                                            href="https://pitta-patta.com/styles/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1858,12 +1755,12 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </span><span class="item-navigation-reviews-comments">9999</span></a></li>
+                                            </span><span class="item-navigation-reviews-comments">9.0K</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/"><span>Comments</span><span
-                                                class="item-navigation-reviews-comments">9989</span></a></li>
+                                            href="https://pitta-patta.com/styles/"><span>Comments</span><span
+                                                class="item-navigation-reviews-comments">9.0K</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/">Support</a>
+                                            href="https://pitta-patta.com/styles/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1891,7 +1788,7 @@
         text-shadow: 2px 2px #0c0f12;
         border-radius: 10px 10px;
         border: 1px solid #ffe600;
-        background: linear-gradient(to bottom, #d60000 0, #002a66 100%);
+        background: linear-gradient(to bottom, #915702 0, #ff00bf 100%);
         color: #fff;
     }
 
@@ -1899,24 +1796,13 @@
     .register-button {
         text-shadow: 2px 2px #000000;
         border-radius: 10px 10px;
-        background: linear-gradient(to bottom, #622e00 0, #0037ff 100%);
-        border: 1px solid #ff0000;
+        background: linear-gradient(to bottom, #ff00bf 0, #915702 100%);
+        border: 1px solid #ffbb00;
     }
 </style>
 <!-- Section 2 -->
-<div class="section-2-container section-container section-container-gray-bg">
-  <div class="container mt-1 pt-1">
-    <div class="col-12">
-      <div class="w-100 mt-4 mb-4 text-center">
-        
-        <div class="n-columns-2">
-            <a href="https://fastads.b-cdn.net/mpltoto5th" rel="nofollow noreferrer"
-                class="login">LOGIN</a>
-            <a href="https://fastads.b-cdn.net/mpltoto5th" rel="nofollow noreferrer"
-                class="register">DAFTAR</a>
-        </div>
       </div>
-                    
+
         </div>
       </div>
     </div>
@@ -1944,10 +1830,10 @@
                                                 Details</option>
                                             <option
                                                 data-url="/item/marketica-marketplace-wordpress-theme/reviews/8988002">
-                                                Reviews (999)</option>
+                                                Reviews (9999)</option>
                                             <option
                                                 data-url="/item/marketica-marketplace-wordpress-theme/8988002/comments">
-                                                Comments (998)</option>
+                                                Comments (9998)</option>
                                             <option
                                                 data-url="/item/marketica-marketplace-wordpress-theme/8988002/support">
                                                 Support</option>
@@ -1962,12 +1848,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/"><span
+                                            href="https://pitta-patta.com/styles/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://cefile.unr.edu.ar/"><span
+                                            href="https://pitta-patta.com/styles/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1983,14 +1869,14 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": "MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online Hari Ini", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
 
 
                             <div bis_skin_checked="1">
-                                <link href="https://www.upload.ee/image/18597438/mplsitustoto.jpg">
+                                <link href="https://www.upload.ee/image/18609277/futsalpanjang.png">
 
                                 <div class="content-s " bis_skin_checked="1">
                                     <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
@@ -1998,7 +1884,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://cefile.unr.edu.ar/"><span
+                                                        href="https://pitta-patta.com/styles/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2007,7 +1893,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://cefile.unr.edu.ar/">
+                                                        href="https://pitta-patta.com/styles/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2024,14 +1910,14 @@
 
 
                                             <a target="_blank"
-                                                href="https://fastads.b-cdn.net/mpltoto5th"><img
-                                                    alt="MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best! - WooCommerce eCommerce"
+                                                href="https://seoluckygengg.sgp1.cdn.digitaloceanspaces.com/daftarfutsal.html"><img
+                                                    alt="FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online - WooCommerce eCommerce"
                                                     width="300" height="300"
-                                                    srcset="https://www.upload.ee/image/18597438/mplsitustoto.jpg"
+                                                    srcset="https://www.upload.ee/image/18609374/futsaltutugengg.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://www.upload.ee/image/18597438/mplsitustoto.jpg"></a>
+                                                    src="https://www.upload.ee/image/18609374/futsaltutugengg.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best! - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online Hari Ini - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2100,14 +1986,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://fastads.b-cdn.net/mpltoto5th"
+                                                    <a href="https://seoluckygengg.sgp1.cdn.digitaloceanspaces.com/daftarfutsal.html"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://fastads.b-cdn.net/mpltoto5th"
+                                                        href="https://seoluckygengg.sgp1.cdn.digitaloceanspaces.com/daftarfutsal.html"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2126,7 +2012,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://cefile.unr.edu.ar/">
+                                                    href="https://pitta-patta.com/styles/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2168,8 +2054,8 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MPLTOTO : Pilihan Jitu Situs Toto Togel & Toto Slot 4D The Best!&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://cefile.unr.edu.ar/"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;FUTSALTOTO : Pitta Styles Situs Toto Terpercaya & Bandar Togel Macau 4D Online&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    action="https://pitta-patta.com/styles/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2209,7 +2095,7 @@
                                                                                         <span
                                                                                             class="t-heading -size-m h-m0">
                                                                                             <b class="t-currency"><span
-                                                                                                    class="">$88</span></b>
+                                                                                                    class="">$99</span></b>
                                                                                         </span>
                                                                                     </div>
                                                                                     <div class="license-selector__description"
@@ -2230,7 +2116,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://cefile.unr.edu.ar//licenses/standard">View
+                                                                                        href="https://pitta-patta.com/styles/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2247,7 +2133,7 @@
                                                                 <div class="js-purchase-heading purchase-form__price t-heading -size-xxl"
                                                                     bis_skin_checked="1">
                                                                     <b class="t-currency"><span
-                                                                            class="js-purchase-price">$111</span></b>
+                                                                            class="js-purchase-price">$99</span></b>
                                                                 </div>
                                                             </div>
 
@@ -2271,17 +2157,17 @@
                                                                     <li class="t-icon-list__item -icon-ok">
                                                                         <span
                                                                             class="is-visually-hidden">Included:</span>
-                                                                        SITUS TOTO
+                                                                        FUTSALTOTO
                                                                     </li>
                                                                     <li class="t-icon-list__item -icon-ok">
                                                                         <span
                                                                             class="is-visually-hidden">Included:</span>
-                                                                        TOTO TOGEL
+                                                                        Situs Toto
                                                                     </li>
                                                                     <li class="t-icon-list__item -icon-ok">
                                                                         <span
                                                                             class="is-visually-hidden">Included:</span>
-                                                                        TOTO SLOT<span
+                                                                        Toto Togel<span
                                                                             class="purchase-form__author-name"></span>
                                                                         <a class="t-link -decoration-reversed js-support__inclusion-link"
                                                                             data-view="modalAjax"
@@ -2319,15 +2205,15 @@
                                                                         <label
                                                                             class="purchase-form__label purchase-form__label--before-after-price"
                                                                             for="support">
-                                                                            TOTO 4D
+                                                                            Support is extended to 12 months.
                                                                             <span
                                                                                 class="purchase-form__price purchase-form__price--before-after-price t-heading -size-xs h-pull-right">
                                                                                 <span
-                                                                                    class="js-renewal__price t-currency purchase-form__renewal-price purchase-form__renewal-price--strikethrough">$101.11</span>
+                                                                                    class="js-renewal__price t-currency purchase-form__renewal-price purchase-form__renewal-price--strikethrough">$99</span>
 
                                                                                 <b class="t-currency">
                                                                                     <span
-                                                                                        class="js-support__price">$11.11</span>
+                                                                                        class="js-support__price">$9.9</span>
                                                                                 </b>
                                                                             </span>
                                                                         </label>
@@ -2335,19 +2221,18 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <p class="t-body -size-m"><i>SITUS TOTO TERPERCAYA!</i>
+                                                        <p class="t-body -size-m"><i>Licensed & Trusted - 100% The Best Choice for Situs Togel Resmi</i>
                                                         </p>
 
                                                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                            <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://fastads.b-cdn.net/mpltoto5th"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://seoluckygengg.sgp1.cdn.digitaloceanspaces.com/daftarsini.gif" alt="" width="274" height="126" /></a></p>
+                                                        <p>Revolusi permainan <a href="https://pitta-patta.com/styles/" title="Situs Toto">situs toto</a> dimulai dari FUTSALTOTO Pitta Styles yang menghadirkan ekosistem bandar togel Macau 4D dengan teknologi prediktif terdepan. Bukan sekadar platform biasa, kami menciptakan pengalaman bermain yang mengintegrasikan algoritma kemenangan canggih dengan jaminan pembayaran instan 24/7, menjadikan FUTSALTOTO sebagai destinasi utama para pemain strategis togel online di Indonesia.</p>
+                                                                                                                <div class="purchase-form__button" bis_skin_checked="1">
                                                             </div>
 
                                                         </div>
                                                         <div class="purchase-form__us-dollars-notice-container"
                                                             bis_skin_checked="1">
-                                                            <p class="purchase-form__us-dollars-notice"><i>Price is in
-                                                                    US dollars and excludes tax and handling fees</i>
+                                                            <p class="purchase-form__us-dollars-notice"><i>The price is stated in USD, with tax and handling charges being separate.</i>
                                                             </p>
 
                                                         </div>
@@ -2370,9 +2255,9 @@
 
 
                                     <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
-                                         All Rights Reserved SEOLUCKYGENGG IZIN TAMPIL!
+                                        © All Rights Reserved FUTSALTOTO
                                         <br>
-                                        <a href="https://cefile.unr.edu.ar/">Contact the MPLTOTO Help Team</a>
+                                        <a href="https://pitta-patta.com/styles/">Contact the FUTSALTOTO Help Team</a>
                                     </div>
 
                                 </div>
@@ -2383,7 +2268,6 @@
                                     // This causes issue with responsive version in which unexpanded item description obscure
                                     // the scroll position and Chrome will jump to the outer border of bottom
                                     window.addEventListener('unload', function (e) { window.scrollTo(0, 0); });
-
                                     //]]>
                                 </script>
                             </div>
@@ -2405,15 +2289,15 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        Envato Market
+                                                        FUTSALTOTO
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://cefile.unr.edu.ar//hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://pitta-patta.com/styles/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://cefile.unr.edu.ar//licenses">Licenses</a>
+                                                            href="https://pitta-patta.com/styles/licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2437,11 +2321,11 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        Help
+                                                        SITUS TOTO
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://cefile.unr.edu.ar/">Help Center</a>
+                                                            href="https://pitta-patta.com/styles/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2452,23 +2336,23 @@
                                             <li class="global-footer-info-links__list-item">
                                                 <ul class="global-footer-sublist">
                                                     <li class="global-footer-sublist__item-title">
-                                                        Our Community
+                                                        TOTO TOGEL
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://community.envato.com">Community</a>
+                                                            href="https://pitta-patta.com/styles/">Community</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://envato.com/blog">Blog</a>
+                                                            href="https://pitta-patta.com/styles/">Blog</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://cefile.unr.edu.ar/">Forums</a>
+                                                            href="https://pitta-patta.com/styles/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://community.envato.com/#/events">Meetups</a>
+                                                            href="https://pitta-patta.com/styles/">Meetups</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -2505,17 +2389,17 @@
 
                                     <div class="global-footer-stats" bis_skin_checked="1">
                                         <div class="global-footer-stats__content" bis_skin_checked="1">
-                                            <img class="global-footer-stats__logo" alt="Envato Market"
-                                                src="https://www.upload.ee/image/18598218/mplpanjanggg.png">
+                                            <img class="global-footer-stats__logo" alt="FUTSALTOTO"
+                                                src="https://www.upload.ee/image/18609277/futsalpanjang.png">
 
                                             <ul class="global-footer-stats__list">
                                                 <li class="global-footer-stats__list-item h-p0">
-                                                    <span class="global-footer-stats__number">55,618,826</span> items
+                                                    <span class="global-footer-stats__number">12,789,129</span> items
                                                     sold
 
                                                 </li>
                                                 <li class="global-footer-stats__list-item h-p0">
-                                                    <span class="global-footer-stats__number">$5,221,409,470</span>
+                                                    <span class="global-footer-stats__number">$25,364,579,092</span>
                                                     community earnings
 
                                                 </li>
@@ -2570,7 +2454,7 @@
                                         </small>
 
                                         <small class="global-footer-company-links__copyright">
-                                             2025 Envato Pty Ltd. Trademarks and brands are the property of their
+                                            © 2025 Envato Pty Ltd. Trademarks and brands are the property of their
                                             respective owners.
                                         </small>
                                     </div>
@@ -2721,7 +2605,7 @@
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://cefile.unr.edu.ar/"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://pitta-patta.com/styles/"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -2729,7 +2613,7 @@
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://cefile.unr.edu.ar/" id="js-show-survey-button"
+            <a href="https://pitta-patta.com/styles/" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -2833,7 +2717,7 @@
     </script>
 
 
-    
+
 
 
     <iframe name="__uspapiLocator" tabindex="-1" role="presentation" aria-hidden="true" title="Blank"
@@ -2846,7 +2730,7 @@
         <span class="js-flyout__triangle flyout__triangle"></span>
         <div class="license-selector" data-view="licenseSelector" bis_skin_checked="1">
             <div class="js-license-selector__item license-selector__item" data-license="regular"
-                data-name="PROGRESSIVE JACKPOT" bis_skin_checked="1">
+                data-name="Regular License" bis_skin_checked="1">
 
                 <div class="license-selector__license-type" bis_skin_checked="1">
                     <span class="t-heading -size-xxs">Regular License</span>
@@ -2855,7 +2739,7 @@
                 </div>
                 <div class="license-selector__price" bis_skin_checked="1">
                     <span class="t-heading -size-m h-m0">
-                        <b class="t-currency"><span class="">$55</span></b>
+                        <b class="t-currency"><span class="">$391</span></b>
                     </span>
                 </div>
                 <div class="license-selector__description" bis_skin_checked="1">
@@ -2868,7 +2752,7 @@
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://cefile.unr.edu.ar/">View license details</a>
+                    href="https://pitta-patta.com/styles/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
@@ -2904,7 +2788,7 @@
         bis_skin_checked="1"><img id="batBeacon178618191654" width="0" height="0" alt=""
             src="https://bat.bing.com/action/0?ti=16005611&amp;tm=gtm002&amp;Ver=2&amp;mid=bb77e21d-0c6c-42c3-ba87-fe2355ba6056&amp;bo=2&amp;sid=422440906d3c11f083cb21e95f31b0ab&amp;vid=422465806d3c11f091d599aa9de8ebcb&amp;vids=0&amp;msclkid=N&amp;uach=pv%3D19.0.0&amp;pi=918639831&amp;lg=en-US&amp;sw=1920&amp;sh=1080&amp;sc=24&amp;tl=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;p=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;r=https%3A%2F%2Fwww.google.com%2F&amp;lt=4778&amp;evt=pageLoad&amp;sv=1&amp;asc=G&amp;cdb=AQIT&amp;rn=643027"
             style="width: 0px; height: 0px; display: none; visibility: hidden;"></div>
-            
+
 
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"5c7f94c07dc24623971c3ad69db061f7","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
